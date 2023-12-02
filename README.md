@@ -13,14 +13,6 @@
 
 This application requires Node.js v18.17+.
 
-```bash
-git clone https://github.com/leerob/leerob.io.git
-cd leerob.io
-pnpm install
-pnpm run setup # Remove all of my personal information
-pnpm dev
-```
-
 Create a `.env.local` file similar to [`.env.example`](https://github.com/leerob/leerob.io/blob/main/.env.example).
 
 ## Database Schema
